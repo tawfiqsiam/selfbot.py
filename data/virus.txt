@@ -9,4 +9,4 @@
 ``Injecting virus.   |``
 ``Injecting virus..  /``
 ``Injecting virus... -``
-``Successfully Injected {virus}-virus.exe into {user}``
+``Successfully Injected {virus}-virus.exe into this user``
