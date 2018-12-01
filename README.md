@@ -1,5 +1,5 @@
 # BEFORE YOU MOVE ON
-Selfbots are strictly against the Discord Terms of Service. Using this application is basically screaming: "BAN ME NOW, DISCORD!"    
+Selfboots are strictly against the Discord Terms of Service. Using this application is basically screaming: "BAN ME NOW, DISCORD!"    
 All of the core developers of this project has gotten their own personal discord account(s) suspended or even disabled already.
 
 This project is officially discontinued. The support server still stands, but all core developers have left, and it's not really active. 
